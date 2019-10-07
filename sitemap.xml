@@ -23,8 +23,8 @@
     
     <url>
     
-      <loc>https://pavancm.github.io/project/optical-flow/</loc>
-      <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+      <loc>https://pavancm.github.io/project/omd/</loc>
+      <lastmod>2018-04-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://pavancm.github.io/project/local-homography/</loc>
+      <loc>https://pavancm.github.io/project/nss_gan/</loc>
       <lastmod>2017-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,8 +86,8 @@
     
     <url>
     
-      <loc>https://pavancm.github.io/publication/video_mag/</loc>
-      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+      <loc>https://pavancm.github.io/project/dna_rnn/</loc>
+      <lastmod>2016-12-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -95,8 +95,17 @@
     
     <url>
     
-      <loc>https://pavancm.github.io/project/blending/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://pavancm.github.io/project/optical-flow/</loc>
+      <lastmod>2016-08-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://pavancm.github.io/publication/video_mag/</loc>
+      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -162,7 +171,7 @@
     <url>
     
       <loc>https://pavancm.github.io/project/</loc>
-      <lastmod>2017-08-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
