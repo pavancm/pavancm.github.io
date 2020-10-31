@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Pavan Chennagiri</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavancm.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Capturing Video Frame Rate Variations via Entropic Differencing</title>
+      <link>https://pavancm.github.io/publication/gsti/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/gsti/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality</title>
