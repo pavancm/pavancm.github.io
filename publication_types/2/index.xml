@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Pavan Chennagiri</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavancm.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction</title>
+      <link>https://pavancm.github.io/publication/greed/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/greed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective and Objective Quality Assessment of High Frame Rate Videos</title>
+      <link>https://pavancm.github.io/publication/livehfr/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/livehfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Frame Rate Video Quality Assessment using VMAF and Entropic Differences</title>
+      <link>https://pavancm.github.io/publication/vmafgreed/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/vmafgreed/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Capturing Video Frame Rate Variations via Entropic Differencing</title>
