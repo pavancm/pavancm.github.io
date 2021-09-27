@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Pavan Chennagiri</title>
+    <link>https://pavancm.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Pavan Chennagiri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Pavan Chennagiri</copyright>
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pavancm.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High Frame Rate Video Quality Assessment using VMAF and Entropic Differences</title>
+      <link>https://pavancm.github.io/publication/vmafgreed/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/vmafgreed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
