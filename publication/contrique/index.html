@@ -46,11 +46,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://pavancm.github.io/project/dna_rnn/">
+  <link rel="canonical" href="https://pavancm.github.io/publication/contrique/">
 
   
 
-  <title>DNA Sequencing using deep Recurrent Neural Networks | Pavan Chennagiri</title>
+  <title>Image Quality Assessment using Contrastive Learning | Pavan Chennagiri</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -170,52 +170,53 @@
   </div>
 </nav>
 
-
-<article class="article article-project" itemscope itemtype="http://schema.org/Article">
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
 
-  <div class="article-container">
-
-    <div class="pub-title">
-      <h1 itemprop="name">DNA Sequencing using deep Recurrent Neural Networks</h1>
-      <span class="pub-authors" itemprop="author">&nbsp;</span>
-      <span class="pull-right">
-        
+  <div class="container pub-title">
+    <h1 itemprop="name">Image Quality Assessment using Contrastive Learning</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      <strong>Pavan C Madhusudana</strong>, Neil Birkbeck, Yilin Wang, Balu Adsumilli, Alan C Bovik
+      
+    </span>
+    <span class="pull-right">
+      
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=DNA%20Sequencing%20using%20deep%20Recurrent%20Neural%20Networks&amp;url=https%3a%2f%2fpavancm.github.io%2fproject%2fdna_rnn%2f"
+         href="https://twitter.com/intent/tweet?text=Image%20Quality%20Assessment%20using%20Contrastive%20Learning&amp;url=https%3a%2f%2fpavancm.github.io%2fpublication%2fcontrique%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpavancm.github.io%2fproject%2fdna_rnn%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fpavancm.github.io%2fpublication%2fcontrique%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpavancm.github.io%2fproject%2fdna_rnn%2f&amp;title=DNA%20Sequencing%20using%20deep%20Recurrent%20Neural%20Networks"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fpavancm.github.io%2fpublication%2fcontrique%2f&amp;title=Image%20Quality%20Assessment%20using%20Contrastive%20Learning"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpavancm.github.io%2fproject%2fdna_rnn%2f&amp;title=DNA%20Sequencing%20using%20deep%20Recurrent%20Neural%20Networks"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fpavancm.github.io%2fpublication%2fcontrique%2f&amp;title=Image%20Quality%20Assessment%20using%20Contrastive%20Learning"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=DNA%20Sequencing%20using%20deep%20Recurrent%20Neural%20Networks&amp;body=https%3a%2f%2fpavancm.github.io%2fproject%2fdna_rnn%2f">
+         href="mailto:?subject=Image%20Quality%20Assessment%20using%20Contrastive%20Learning&amp;body=https%3a%2f%2fpavancm.github.io%2fpublication%2fcontrique%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -223,32 +224,118 @@
 </div>
 
 
-      </span>
-    </div>
-
-    
-
-    <div class="article-style" itemprop="articleBody">
-      <p>Sequencing by DNA translocation is an emerging technology which offers cheaper and faster devices for DNA sequencing. However, precisely determining the bases present in the sequence from noisy and lengthy electric signals is particu larly challenging and offers an interesting research problem. In this project two basecalling methods DeepNano and Chiron are evaluated and the fundamental advantages and drawbacks associated with them are analyzed. Chiron uses a combination of CNN-RNN model as opposed to RNN in case of Deepnano. Comparison between the methods is made in the context of performance accuracy,speed, complexity and generalizability. Chiron with it’s complex model provides better read accuracy as well as generalizes well with unseen data when compared to Deepnano.</p>
-
-<p>his project was undertaken as part of Genomic Signal Processing and Data Science course during Aug-Dec 2018. Further details about the project and results are available <a href="https://pavancm.github.io/pdf/GSO_Report.pdf" target="_blank">here</a>.</p>
-
-    </div>
-
+    </span>
   </div>
-</article>
+
+</div>
+<div class="article-container">
+
+  
+
+  <h3>Abstract</h3>
+  <p class="pub-abstract" itemprop="text">We consider the problem of obtaining image quality representations in a self-supervised manner. We use prediction of distortion type and degree as an auxiliary task to learn features from an unlabeled image dataset containing a mixture of synthetic and realistic distortions. We then train a deep Convolutional Neural Network (CNN) using a contrastive pairwise objective to solve the auxiliary problem. We refer to the proposed training framework and resulting deep IQA model as the CONTRastive Image QUality Evaluator (CONTRIQUE). During evaluation, the CNN weights are frozen and a linear regressor maps the learned representations to quality scores in a No-Reference (NR) setting. We show through extensive experiments that CONTRIQUE achieves competitive performance when compared to state-of-the-art NR image quality models, even without any additional fine-tuning of the CNN backbone. The learned representations are highly robust and generalize well across images afflicted by either synthetic or authentic distortions. Our results suggest that powerful quality representations with perceptual relevance can be obtained without requiring large labeled subjective image quality datasets.</p>
+
+  
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+        <div class="col-xs-12 col-sm-9">
+          
+          <a href="/publication/#2">
+            Journal
+          </a>
+          
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+  
+
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+        <div class="col-xs-12 col-sm-9">Preprint</div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+        <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+          January, 2022
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="row" style="padding-top: 10px">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+      <div class="row">
+        <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+        <div class="col-xs-12 col-sm-9">
+
+          
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2110.13266" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://github.com/pavancm/CONTRIQUE" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-1"></div>
+  </div>
+  <div class="visible-xs space-below"></div>
+
+  <div class="space-below"></div>
+
+  <div class="article-style"></div>
+
+</div>
 
 <div class="container">
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://pavancm.github.io/project/optical-flow/"><span
-      aria-hidden="true">&larr;</span> Statistics of Optical Flow</a></li>
+    <li class="previous"><a href="https://pavancm.github.io/publication/faver/"><span
+      aria-hidden="true">&larr;</span> FAVER: Blind Quality Prediction of Variable Frame Rate Videos</a></li>
     
 
-    
-    <li class="next"><a href="https://pavancm.github.io/project/nss_gan/">Natural Scene Statistics in Adversarial Learning <span
-      aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
 </nav>

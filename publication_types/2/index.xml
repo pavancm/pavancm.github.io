@@ -6,11 +6,47 @@
     <description>Recent content in 2 on Pavan Chennagiri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019 Pavan Chennagiri</copyright>
-    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2022 Pavan Chennagiri</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pavancm.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image Quality Assessment using Contrastive Learning</title>
+      <link>https://pavancm.github.io/publication/contrique/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/contrique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAVER: Blind Quality Prediction of Variable Frame Rate Videos</title>
+      <link>https://pavancm.github.io/publication/faver/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/faver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Quality Assessment Using Synthetic Images</title>
+      <link>https://pavancm.github.io/publication/contrique_syn/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/contrique_syn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Dead Leaves Model: Training with Synthetic Data</title>
+      <link>https://pavancm.github.io/publication/deadleaves/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pavancm.github.io/publication/deadleaves/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction</title>
