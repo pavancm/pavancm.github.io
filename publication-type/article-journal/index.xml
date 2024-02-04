@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article-journal | Pavan</title>
+    <link>https://pavancm.github.io/publication-type/article-journal/</link>
+      <atom:link href="https://pavancm.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>article-journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavancm.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>article-journal</title>
+      <link>https://pavancm.github.io/publication-type/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>FAVER: Blind quality prediction of variable frame rate videos</title>
+      <link>https://pavancm.github.io/publication/faver/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/faver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CONVIQT: Contrastive Video Quality Estimator</title>
+      <link>https://pavancm.github.io/publication/conviqt/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/conviqt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Quality Assessment Using Contrastive Learning</title>
+      <link>https://pavancm.github.io/publication/contrique/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/contrique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Video Quality Assessment Models Sensitive to Frame Rate Distortions</title>
+      <link>https://pavancm.github.io/publication/gsti-greed/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/gsti-greed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Dead Leaves Model: Training With Synthetic Data</title>
+      <link>https://pavancm.github.io/publication/dead-leaves/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/dead-leaves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction</title>
+      <link>https://pavancm.github.io/publication/st-greed/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/st-greed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective and Objective Quality Assessment of High Frame Rate Videos</title>
+      <link>https://pavancm.github.io/publication/live-yt-hfr/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/live-yt-hfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing Video Frame Rate Variations via Entropic Differencing</title>
+      <link>https://pavancm.github.io/publication/gsti/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/gsti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality</title>
+      <link>https://pavancm.github.io/publication/siqe/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/siqe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Spectral Peak Tracking for Heart Rate Monitoring from Photoplethysmography Signal During Intensive Physical Exercise</title>
+      <link>https://pavancm.github.io/publication/mispt/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/mispt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

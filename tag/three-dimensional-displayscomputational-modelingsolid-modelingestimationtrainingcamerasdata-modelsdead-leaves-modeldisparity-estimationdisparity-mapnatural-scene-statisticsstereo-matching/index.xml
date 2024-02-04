@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Three-dimensional displays;Computational modeling;Solid modeling;Estimation;Training;Cameras;Data models;Dead leaves model;disparity estimation;disparity map;natural scene statistics;stereo matching | Pavan</title>
+    <link>https://pavancm.github.io/tag/three-dimensional-displayscomputational-modelingsolid-modelingestimationtrainingcamerasdata-modelsdead-leaves-modeldisparity-estimationdisparity-mapnatural-scene-statisticsstereo-matching/</link>
+      <atom:link href="https://pavancm.github.io/tag/three-dimensional-displayscomputational-modelingsolid-modelingestimationtrainingcamerasdata-modelsdead-leaves-modeldisparity-estimationdisparity-mapnatural-scene-statisticsstereo-matching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Three-dimensional displays;Computational modeling;Solid modeling;Estimation;Training;Cameras;Data models;Dead leaves model;disparity estimation;disparity map;natural scene statistics;stereo matching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavancm.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Three-dimensional displays;Computational modeling;Solid modeling;Estimation;Training;Cameras;Data models;Dead leaves model;disparity estimation;disparity map;natural scene statistics;stereo matching</title>
+      <link>https://pavancm.github.io/tag/three-dimensional-displayscomputational-modelingsolid-modelingestimationtrainingcamerasdata-modelsdead-leaves-modeldisparity-estimationdisparity-mapnatural-scene-statisticsstereo-matching/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Dead Leaves Model: Training With Synthetic Data</title>
+      <link>https://pavancm.github.io/publication/dead-leaves/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/dead-leaves/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distortion;Task analysis;Image quality;Predictive models;Training;Convolutional neural networks;Computational modeling;No reference image quality assessment;blind image quality assessment;self-supervised learning;deep learning | Pavan</title>
+    <link>https://pavancm.github.io/tag/distortiontask-analysisimage-qualitypredictive-modelstrainingconvolutional-neural-networkscomputational-modelingno-reference-image-quality-assessmentblind-image-quality-assessmentself-supervised-learningdeep-learning/</link>
+      <atom:link href="https://pavancm.github.io/tag/distortiontask-analysisimage-qualitypredictive-modelstrainingconvolutional-neural-networkscomputational-modelingno-reference-image-quality-assessmentblind-image-quality-assessmentself-supervised-learningdeep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Distortion;Task analysis;Image quality;Predictive models;Training;Convolutional neural networks;Computational modeling;No reference image quality assessment;blind image quality assessment;self-supervised learning;deep learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavancm.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Distortion;Task analysis;Image quality;Predictive models;Training;Convolutional neural networks;Computational modeling;No reference image quality assessment;blind image quality assessment;self-supervised learning;deep learning</title>
+      <link>https://pavancm.github.io/tag/distortiontask-analysisimage-qualitypredictive-modelstrainingconvolutional-neural-networkscomputational-modelingno-reference-image-quality-assessmentblind-image-quality-assessmentself-supervised-learningdeep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Image Quality Assessment Using Contrastive Learning</title>
+      <link>https://pavancm.github.io/publication/contrique/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/contrique/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

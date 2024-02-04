@@ -1,77 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Pavan Chennagiri</title>
+    <title>Publications | Pavan</title>
     <link>https://pavancm.github.io/publication/</link>
-    <description>Recent content in Publications on Pavan Chennagiri</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2022 Pavan Chennagiri</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://pavancm.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Image Quality Assessment using Contrastive Learning</title>
-      <link>https://pavancm.github.io/publication/contrique/</link>
-      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/contrique/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://pavancm.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pavancm.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://pavancm.github.io/publication/</link>
+    </image>
     
     <item>
-      <title>FAVER: Blind Quality Prediction of Variable Frame Rate Videos</title>
+      <title>FAVER: Blind quality prediction of variable frame rate videos</title>
       <link>https://pavancm.github.io/publication/faver/</link>
-      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://pavancm.github.io/publication/faver/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Image Quality Assessment Using Synthetic Images</title>
-      <link>https://pavancm.github.io/publication/contrique_syn/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/contrique_syn/</guid>
+      <title>CONVIQT: Contrastive Video Quality Estimator</title>
+      <link>https://pavancm.github.io/publication/conviqt/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/conviqt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Revisiting Dead Leaves Model: Training with Synthetic Data</title>
-      <link>https://pavancm.github.io/publication/deadleaves/</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/deadleaves/</guid>
+      <title>Image Quality Assessment Using Contrastive Learning</title>
+      <link>https://pavancm.github.io/publication/contrique/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/contrique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Video Quality Assessment Models Sensitive to Frame Rate Distortions</title>
+      <link>https://pavancm.github.io/publication/gsti-greed/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/gsti-greed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Quality Assessment using Synthetic Images</title>
+      <link>https://pavancm.github.io/publication/contrique-syn/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/contrique-syn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Dead Leaves Model: Training With Synthetic Data</title>
+      <link>https://pavancm.github.io/publication/dead-leaves/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/dead-leaves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ST-GREED: Space-Time Generalized Entropic Differences for Frame Rate Dependent Video Quality Prediction</title>
-      <link>https://pavancm.github.io/publication/greed/</link>
+      <link>https://pavancm.github.io/publication/st-greed/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/greed/</guid>
+      <guid>https://pavancm.github.io/publication/st-greed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subjective and Objective Quality Assessment of High Frame Rate Videos</title>
-      <link>https://pavancm.github.io/publication/livehfr/</link>
+      <link>https://pavancm.github.io/publication/live-yt-hfr/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/livehfr/</guid>
+      <guid>https://pavancm.github.io/publication/live-yt-hfr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High Frame Rate Video Quality Assessment using VMAF and Entropic Differences</title>
-      <link>https://pavancm.github.io/publication/vmafgreed/</link>
-      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/vmafgreed/</guid>
+      <link>https://pavancm.github.io/publication/vmaf-greed/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pavancm.github.io/publication/vmaf-greed/</guid>
       <description></description>
     </item>
     
@@ -79,43 +88,22 @@
       <title>Capturing Video Frame Rate Variations via Entropic Differencing</title>
       <link>https://pavancm.github.io/publication/gsti/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://pavancm.github.io/publication/gsti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality</title>
-      <link>https://pavancm.github.io/publication/siqe_pub/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/siqe_pub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quality Assessment of Stitched Images for Virtual Reality</title>
       <link>https://pavancm.github.io/publication/siqe/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://pavancm.github.io/publication/siqe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Video Magnification for non-intrusive Heart Monitoring</title>
-      <link>https://pavancm.github.io/publication/video_mag/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://pavancm.github.io/publication/video_mag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiple Spectral Peak Tracking for heart rate monitoring from Photoplethysmography (PPG) signal</title>
+      <title>Multiple Spectral Peak Tracking for Heart Rate Monitoring from Photoplethysmography Signal During Intensive Physical Exercise</title>
       <link>https://pavancm.github.io/publication/mispt/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://pavancm.github.io/publication/mispt/</guid>
       <description></description>
     </item>

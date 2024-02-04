@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://pavancm.github.io/sitemap.xml

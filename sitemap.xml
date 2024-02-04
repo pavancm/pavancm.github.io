@@ -1,271 +1,147 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/contrique/</loc>
-      <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/faver/</loc>
-      <lastmod>2022-01-15T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/contrique_syn/</loc>
-      <lastmod>2022-01-04T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/deadleaves/</loc>
-      <lastmod>2021-12-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/greed/</loc>
-      <lastmod>2021-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/livehfr/</loc>
-      <lastmod>2021-07-26T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/vmafgreed/</loc>
-      <lastmod>2021-07-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/gsti/</loc>
-      <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/siqe_pub/</loc>
-      <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/siqe/</loc>
-      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/project/omd/</loc>
-      <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/project/nss_gan/</loc>
-      <lastmod>2017-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/project/dna_rnn/</loc>
-      <lastmod>2016-12-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/project/optical-flow/</loc>
-      <lastmod>2016-08-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/video_mag/</loc>
-      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication/mispt/</loc>
-      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/project/colorization/</loc>
-      <lastmod>2015-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication_types/2/</loc>
-      <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication_types/4/</loc>
-      <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/project/</loc>
-      <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/publication_types/</loc>
-      <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://pavancm.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pavancm.github.io/publication-type/article-journal/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/faver/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/generalized-gaussian-distribution/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/high-frame-rate/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/natural-scene-statistics/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication_types/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/temporal-band-pass-filter/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/video-quality-assessment/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/conviqt/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/distortionvideo-recordingquality-assessmentfeature-extractionstreaming-mediatrainingpredictive-modelsno-reference-video-quality-assessmentblind-video-quality-assessmentself-supervised-learningdeep-learning/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/distortiontask-analysisimage-qualitypredictive-modelstrainingconvolutional-neural-networkscomputational-modelingno-reference-image-quality-assessmentblind-image-quality-assessmentself-supervised-learningdeep-learning/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/contrique/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/gsti-greed/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/streaming-mediapredictive-modelsentropyband-pass-filtersvideo-recordingquality-assessmentrate-distortionhigh-frame-ratevideo-quality-assessmentfull-referenceentropynatural-video-statisticsgeneralized-gaussian-distributionfeature-fusion/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/contrique-syn/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/trainingimage-qualitycomputer-visioncomputational-modelingconferencestraining-datadistortion/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/dead-leaves/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/three-dimensional-displayscomputational-modelingsolid-modelingestimationtrainingcamerasdata-modelsdead-leaves-modeldisparity-estimationdisparity-mapnatural-scene-statisticsstereo-matching/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/st-greed/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/video-recordingquality-assessmentstreaming-mediadatabasesband-pass-filterspredictive-modelsdistortionhigh-frame-rateobjective-algorithm-evaluationsvideo-quality-assessmentfull-referenceentropynatural-video-statisticsgeneralized-gaussian-distribution/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/live-yt-hfr/</loc>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/videosdatabasesquality-assessmentvideo-recordingdistortionspatial-resolutioninternethigh-frame-rateobjective-algorithm-evaluationssubjective-qualityvideo-quality-assessmentvideo-quality-databasefull-reference/</loc>
+    <lastmod>2021-07-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/analytical-modelscorrelationdatabasesgaussian-distributiondistortionencodingquality-assessmenthigh-frame-ratevideo-quality-assessmentfull-referenceentropygeneralized-gaussian-distribution/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/vmaf-greed/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/gsti/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/entropyband-pass-filtersstreaming-mediadistortion-measurementvideo-recordingquality-assessmentgaussian-distributionhigh-frame-ratevideo-quality-assessmentfull-referenceentropynatural-video-statisticsgeneralized-gaussian-distribution/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/distortiondatabasesimage-color-analysissolid-modelingquality-assessmentcamerasvirtual-realityimage-quality-assessmentvirtual-realityimage-panoramageneralized-gaussian-distributionsteerable-pyramidsimage-stitchinggaussian-mixture-model/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/siqe/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/heart-ratetrajectorymonitoringestimationsignal-processing-algorithmsphotoplethysmographynoise-cancellationadaptive-noise-cancellationheart-rate-monitoringspectral-peak-tracking/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/publication/mispt/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://pavancm.github.io/tag/no-reference/blind/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
